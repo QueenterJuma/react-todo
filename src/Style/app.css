@@ -43,14 +43,13 @@ body {
   color: #aeadad;
 }
 
-.para{
+.para {
   text-align: center;
   font-size: 1.2rem;
   color: #aeadad;
   font-weight: 600;
   padding: 7px 0;
 }
-
 
 .form-container {
   display: flex;
